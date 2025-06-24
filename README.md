@@ -1,3 +1,3 @@
 # first
 this is my first repository.
-Athor - Arshan
+Author - Arshan
